@@ -1,0 +1,5 @@
+/.idea/
+/chromedriver_win32/
+/target/
+/build/
+/.allure/
