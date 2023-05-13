@@ -16,8 +16,6 @@
         <aspectj.version>1.9.19</aspectj.version>
         <allure.version>2.21.0</allure.version>
     </properties>
-
-
     <dependencies>
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>

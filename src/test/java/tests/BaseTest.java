@@ -20,7 +20,7 @@ public class BaseTest {
         WebDriverManager.chromedriver().setup();
         Configuration.browser = "chrome";
         Configuration.driverManagerEnabled = true;
-        Configuration.headless = false;
+        Configuration.headless = true;
         Configuration.browserSize = "1920x1080";
         Configuration.timeout = 5000;
         SelenideLogger.addListener("AllureSelenide", new AllureSelenide());
