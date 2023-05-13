@@ -1,3 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"broken","Sat May 13 20:24:08 GMT 2023","Sat May 13 20:24:08 GMT 2023","275","","tests.FirstTest","","tests.FirstTest","checkMapsData","Проверка информации об отеле","Проверяем, что информация об отеле, собранная с разных страниц, совппадает"
-"broken","Sat May 13 20:24:03 GMT 2023","Sat May 13 20:24:08 GMT 2023","4854","","tests.SecondTest","","tests.SecondTest","checkFavoritesList","Проверка списка 'My next trip'","Проверяем, что нужный отель добавляется в список 'My next trip'"
