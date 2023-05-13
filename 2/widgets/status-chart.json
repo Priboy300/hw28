@@ -1,0 +1,1 @@
+[{"uid":"32f272398f7ee371","name":"Проверка информации об отеле","time":{"start":1683987678230,"stop":1683987678516,"duration":286},"status":"broken","severity":"normal"},{"uid":"a4c75213ef679383","name":"Проверка списка 'My next trip'","time":{"start":1683987663978,"stop":1683987678061,"duration":14083},"status":"broken","severity":"normal"}]
